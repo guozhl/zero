@@ -14,5 +14,8 @@
     "javascript"
   ],
   "author": "skye0515@126.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "my-package": "0.0.0"
+  }
 }
