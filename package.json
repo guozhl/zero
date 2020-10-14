@@ -1,5 +1,5 @@
 {
-  "name": "zero",
+  "name": "zerojs",
   "version": "1.0.0",
   "description": "zero.js",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "javascript"
   ],
-  "author": "skye0515@126.com",
+  "author": "skye_luckyme@126.com",
   "license": "ISC",
   "dependencies": {
     "my-package": "0.0.0"
