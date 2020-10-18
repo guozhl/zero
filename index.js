@@ -1,5 +1,5 @@
 function init() {
-  console.log('hello npm')
+  console.log('hello zerojs')
 }
 
 export default init;

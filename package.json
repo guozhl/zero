@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/guozhl/zero.git"
+    "url": "https://github.com/guozhl/zerojs.git"
   },
   "keywords": [
     "javascript"
   ],
   "author": "skye_luckyme@126.com",
-  "license": "ISC",
-  "dependencies": {
-    "my-package": "0.0.0"
-  }
+  "license": "ISC"
 }

@@ -1,1 +1,1 @@
-# add zero.js
+# init
